@@ -1,4 +1,4 @@
-# BREADTH_FIRST_TREE_in_java
+# BREADTH_FIRST_SEARCH_in_java
 BFS stands for Breadth-First Search. It is an algorithm used to traverse or search a graph or tree data structure. BFS starts from a specific node (usually called the "source" or "starting" node) and explores all the neighbors of that node before moving on to their respective neighbors. The process continues until all nodes in the graph have been visited.
 
 Key points about BFS:
